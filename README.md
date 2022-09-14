@@ -1,4 +1,4 @@
-# binance_app
+# flutter-websocket
 
 A new Flutter project.
 
