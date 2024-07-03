@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.binance_app">
+    package="com.example.web_socket_app">
    <application
-        android:label="binance_app"
+        android:label="web_socket_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
