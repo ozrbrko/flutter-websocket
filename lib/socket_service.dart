@@ -21,10 +21,7 @@ class SocketService {
   }
   bool isRequested = false;
 
-  // ws://192.168.2.3:9920/ws - real
-  // ws://172.16.6.165:9920/ws -test
-  // final baseUrl = "ws://192.168.2.3:9920/ws";
-  final baseUrl = "ws://172.16.6.165:9920/ws";
+  final baseUrl = "ws://172.xx.x.xxx:xxxx/ws";
   var url = "";
   SocketService._(this.events, {String? urlString}) {
 
